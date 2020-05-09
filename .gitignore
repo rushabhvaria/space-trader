@@ -1,0 +1,4 @@
+checkstyle-*.jar
+Space\ Trader/
+*.class
+./.gitignore
